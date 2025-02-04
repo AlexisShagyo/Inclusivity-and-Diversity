@@ -1,11 +1,13 @@
 # 🕵️‍♀️Project Overview
 
 Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. Diversity and inclusion are business imperatives, not just nice-to-haves.
+<br>
 
 ## Task
 
 - Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
 - Write what you think some root causes of their slow progress might be
+<br>
 
 ## Methods
 In order to answer these questions, I made DAX measures to summarize the data that is needed for the visual presentation. This is the list of measures that were done: 
@@ -62,9 +64,12 @@ Leavers =
 ```
 
 -----------------
+<br>
+
 ## 📊 Visualization
 
 <img src="https://github.com/AlexisShagyo/Images/blob/main/HR%20Inclusivity%20Dashboard.jpg" alt="Image" width="800" height="450">
+<br>
 
 ## 📚 Insights
 
