@@ -68,8 +68,15 @@ Leavers =
 
 ## 📊 Visualization
 
-<img src="https://github.com/AlexisShagyo/Images/blob/main/HR%20Inclusivity%20Dashboard.jpg" alt="Image" width="800" height="450">
+<img src="https://github.com/AlexisShagyo/Images/blob/main/Inclusivity%20and%20Diversity.jpg" alt="Image" width="800" height="450">
 <br>
 
 ## 📚 Insights
 
+- Most promotions occur among employees in their early to late 30s, accounting for 17.8% of promotions.
+
+- Males in their 20s have a higher chance of being promoted (5.83%) compared to females (1.94%).
+
+- The performance ratings for both male and female employees are below average.
+
+- Most employees who have left the company come from the Operations and Sales & Marketing departments. In the Sales & Marketing department, males make up 65% of the workforce, yet their performance is rated at an average of 2.30. In contrast, females, who comprise 35% of the department, have a higher performance rating of 2.49. Despite this, 16% of males receive promotions, while only 3% of females are promoted.
