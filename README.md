@@ -39,7 +39,7 @@ Avg Rating for Female =
     )
 ```
 
-***4.Average Performance Rating for Males***
+***4. Average Performance Rating for Male***
 ```sql
 Avg Rating for Male = 
     CALCULATE(
